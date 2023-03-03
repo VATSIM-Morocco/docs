@@ -52,9 +52,8 @@ To prevent problems with inaccurate data, please make sure you have the most rec
 <table>
   <thead>
     <tr>
-      <th>Designator</th>
-      <th>Callsign</th>
-      <th>Frequency</th>
+      <th>Data</th>
+      <th>Value</th>
     </tr>
   </thead>
   <tbody>
