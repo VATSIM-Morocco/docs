@@ -41,13 +41,37 @@ dateCreated: 2023-02-27T23:54:00.000Z
 
 <p>It is important to have the latest version of the charts when flying. Through the Morocco eAIP, you can get a set of charts for Mohammed V airport.</p>
 
-<p>As part of your planning and preparation for your flight, we encourage you to review these charts. They are directly accessible <a href="https://siamaroc.onda.ma/eAIP/AD/cartes.htm#GMMN"><u>here</u></a>.</p>
+<p>As part of your planning and preparation for your flight, we encourage you to review these charts. They are directly accessible <a href="https://bit.ly/3CeFrYG"><u>here</u></a>.</p>
 
 ### AIRAC
 
 To prevent problems with inaccurate data, please make sure you have the most recent AIRAC cycle installed before your next flight.
 
 ## Airfield Data
+
+<table>
+  <thead>
+    <tr>
+      <th>Designator</th>
+      <th>Callsign</th>
+      <th>Frequency</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="foo"><em>ARP</em></td>
+      <td><em class="foo">N33°21.85' / W7°34.90'</em></td>
+    </tr>
+    <tr>
+      <td class="foo"><em>Elevation</em></td>
+      <td><em class="foo">656 feet</em></td>
+    </tr>
+    <tr>
+      <td class="foo"><em>Transition altitude</em></td>
+      <td><em class="foo">4000 ft</em></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Runways
 
