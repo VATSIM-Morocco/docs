@@ -1,0 +1,56 @@
+# Project Information
+site_name: Morocco vACC Documentation
+site_url: https://docs.vatsim.ma
+site_author: Ali Badreldeen & Bobbie Chell
+edit_uri: edit/main/docs/
+copyright: Copyright © 2023 Morocco vACC
+
+plugins:
+  - search
+  - awesome-pages
+  - mike
+  
+# Configuration
+theme:
+  name: material
+  font:
+    text: Lato
+  palette:
+    scheme: marvacc
+  logo: https://images-ext-2.discordapp.net/external/pIv8CpgEbbIyJiW8IvkGZwYP6ZGGUyQFmLRY-KtphKc/https/www.vatsim.ma/wp-content/uploads/2023/02/favicon.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc
+    - breadcrumbs
+    - navigation.instant
+    - navigation.tabs.sticky
+    - navigation.tracking    
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+  favicon: https://images-ext-2.discordapp.net/external/pIv8CpgEbbIyJiW8IvkGZwYP6ZGGUyQFmLRY-KtphKc/https/www.vatsim.ma/wp-content/uploads/2023/02/favicon.png
+
+extra_css:
+  - stylesheets/marvacc.css
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/moroccovacc/
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/MoroccoVacc
+    - icon: material/home
+      link: https://vatsim.ma
+      name: Home
+  version:
+    provider: mike
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

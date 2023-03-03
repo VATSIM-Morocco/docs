@@ -1,0 +1,1 @@
+This section will provide all standardisd ATC operations in Moroccan airspace on VATSIM. All information and procedures described are for VATSIM use only and must not be used for real-world applications.
