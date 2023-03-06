@@ -1,3 +1,4 @@
 nav:
     - Controllers: index.md
-    - SOP: sop
+    - SOPs: sop
+    - LoAs: loa

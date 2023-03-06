@@ -62,6 +62,7 @@
 
 .md-typeset h2 {
   color: #212121;
+  text-decoration: underline;
   padding-bottom: 0.5em;
 }
 .md-typeset h3 {
@@ -69,14 +70,22 @@
 }
 .md-typeset h4 {
   padding-top: 1em;
-  text-decoration: underline;
+  text-decoration: none;
   font-weight: bold;
 }
+
 .md-typeset h5 {
   text-transform: capitalize;
-  color: #FFFFFF;
-  font-weight: bold;
 }
+
+.md-typeset h5, .md-typeset h6 {
+  color: var(--md-default-fg-color--light);
+  font-size: .95em;
+  font-weight: 700;
+  letter-spacing: -.01em;
+  margin: 1.25em 0;
+}
+
 .md-typeset h6 {
   text-transform: capitalize;
   color: #FFFFFF;
