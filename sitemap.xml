@@ -2,27 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.vatsim.ma/</loc>
-         <lastmod>2023-03-03</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.vatsim.ma/controllers/</loc>
-         <lastmod>2023-03-03</lastmod>
+         <lastmod>2023-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.vatsim.ma/controllers/loa/vatspa/</loc>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.vatsim.ma/controllers/sop/casablanca/</loc>
-         <lastmod>2023-03-03</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.vatsim.ma/pilots/</loc>
-         <lastmod>2023-03-03</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.vatsim.ma/pilots/briefings/casablanca/</loc>
-         <lastmod>2023-03-03</lastmod>
+         <lastmod>2023-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
