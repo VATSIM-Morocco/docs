@@ -167,13 +167,13 @@ To prevent problems with inaccurate data, please make sure you have the most rec
 
 ## Departures
 
-### Start-up Clearance
+### En Route Clearance and Start-up
 
-<p>To prevent any unnecessary delays, pilots are provided with their start-up clearance along with their airway clearance. This clearance includes a SID, and pilots can expect an initial climb to FL050.</p>
+<p>To prevent any unnecessary delays, pilots are provided with their start-up clearance along with their en route clearance. This clearance includes a SID, and pilots can expect an initial climb to FL050.</p>
 
 <p>Please note that a separate clearance for pushback is still required, even if you have already received your start-up clearance. If you are not able to begin pushback or start-up within 5 minutes of receiving your clearance, please plan accordingly and only request your en route clearance when you are prepared to proceed.</p>
 
-<p>Please see the ATIS for the current runway in use. The runway will be confirmed either prior to taxi or during the pushback clearance.</p>
+<p>Please see the ATIS for the current runway in use. The runway will be confirmed either prior to taxi or during the pushback clearance by Ground.</p>
 
 <div class="text">
   <p><span style="color:rgb(170,0,0);">RAM810D:</span>&emsp;"Mohammed 5th Delivery, Royal Air Maroc 810 delta, information charlie, request start-up clearance to Frankfurt"</p>
@@ -182,9 +182,9 @@ To prevent problems with inaccurate data, please make sure you have the most rec
   <p><span style="color:rgb(170,0,0);">GMMN_DEL:</span>&emsp;"Royal Air Maroc 810 delta, readback correct, report ready for pushback."</p>
 </div>
 
-<p>In situations of high traffic volume, when you request start-up, you may receive a Target Start-up Approval Time (TSAT) from Ground. This TSAT indicates the anticipated time for you to receive approval for start-up/pushback.</p>
+<p>In situations of high traffic volume, when you request start-up, you may receive a Target Start-up Approval Time (TSAT). This TSAT indicates the anticipated time for you to receive approval for start-up/pushback.</p>
 
-<p>If you request start-up while also requesting your en route clearance, your TSAT will be provided simultaneously. However, if you have not requested a start-up clearance, it is your responsibility to inform ATC when you're prepared.</p>
+<p>If you request start-up while also requesting your en route clearance, your TSAT will be provided simultaneously. However, if you have not requested a start-up clearance, it is your responsibility to inform ATC when you are prepared.</p>
 
 <div class="text">
   <p><span style="color:rgb(170,0,0);">GMMN_DEL:</span>&emsp;"Royal Air Maroc 810 delta, start up time at 1415 (TSAT 14:15z), report aircraft ready"</p>
