@@ -41,6 +41,9 @@ transferred 3000ft before reaching its Cleared Flight Level.
 
 ## Sector Layout
 
+<figure class="image image_resized" style="width:100%;"><img src="https://www.vatsim.ma/wp-content/uploads/2023/03/sector-layout.png">
+</figure>
+
 ## Neighbouring Airports with Coordinated Descent
 
 ### Tanger (GMTT)
@@ -151,6 +154,9 @@ For the purpose of simplification Casablanca has delegated a box of airspace aro
 unnecessarily between Frequencies.
 
 As seen in the image below, this delegation of airspace goes from surface up to FL60. From FL70 onwards, this airspace is controlled by Casablanca
+
+<figure class="image image_resized" style="width:100%;"><img src="https://www.vatsim.ma/wp-content/uploads/2023/03/melilla.png">
+</figure>
 
 ## Moroccan Sahara
 
