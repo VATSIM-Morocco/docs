@@ -9,7 +9,7 @@ editor: undefined
 dateCreated: 2023-02-27T23:54:00.000Z
 -->
 
-# LoA-GMMM-LEXX
+# LoA GMMM-LEXX
 
 ## Introduction
 
