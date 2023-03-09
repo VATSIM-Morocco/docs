@@ -54,6 +54,40 @@
   position: relative;
 }
 
+body { counter-reset: h1counter h2counter h3counter h4counter h5counter h6counter; }
+
+h1 { counter-reset: h2counter; }
+h2 { counter-reset: h3counter; }
+h3 { counter-reset: h4counter; }
+h4 { counter-reset: h5counter; }
+h5 { counter-reset: h6counter; }
+h6 {}
+
+h2:before {
+    counter-increment: h2counter;
+    content: counter(h2counter) ".\0000a0\0000a0";
+}
+
+h3:before {
+    counter-increment: h3counter;
+    content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+}
+
+h4:before {
+    counter-increment: h4counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) ".\0000a0\0000a0";
+}
+
+h5:before {
+    counter-increment: h5counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) ".\0000a0\0000a0";
+}
+
+h6:before {
+    counter-increment: h6counter;
+    content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "." counter(h5counter) "." counter(h6counter) ".\0000a0\0000a0";
+}
+
 .md-typeset h2, .md-typeset h3, .md-typeset h4 {
   font-family: var(--header-font), sans-serif;
   font-weight: 400;
@@ -62,7 +96,7 @@
 
 .md-typeset h2 {
   color: #212121;
-  text-decoration: underline;
+  text-decoration: none;
   padding-bottom: 0.5em;
 }
 .md-typeset h3 {
@@ -109,6 +143,15 @@
   text-decoration: none;
 }
 
+td, th {
+  font-weight: 400;
+  vertical-align: center;
+}
+
+.md-typeset table:not([class]) :-webkit-any(th,td):not([align]) {
+    text-align: center;
+}
+
 .md-typeset table:not([class]) th {
   font-weight: bold;
   background-color: #999;
@@ -118,14 +161,36 @@
 .md-typeset table:not([class]) td {
   border-top: .05rem solid var(--md-default-fg-color--lightest);
   padding: .2375em 1.25em;
-  vertical-align: top;
+  margin: auto;
+  vertical-align: middle;
 }
 
 div.text {
   text-align: left;
   font-size: medium;
-  padding-left: 10%;
+  padding-left: 2.5%;
   padding-right: 15%
+}
+
+.md-typeset blockquote {
+  color: #313131;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+[dir=ltr] .md-typeset blockquote {
+  padding-left: 0.6rem;
+}
+
+.md-typeset figure img {
+  display: block;
+  margin: auto;
+}
+
+.md-typeset figcaption {
+  font-style: italic;
+  text-align: center;
+  max-width: 60;
 }
 
 img {
