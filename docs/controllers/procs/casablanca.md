@@ -418,7 +418,7 @@ VFR circuits shall not be permitted at the aerodrome during times of increased I
 
 ### Taxiway Usage and Restrictions
 
-Although there are no regulated taxi routes in Casablanca, it is advised that outbound traffic use apron inner-taxiways and incoming traffic use outer-taxiways.
+Although there are no regulated taxi routes in Casablanca, it is advised that outbound traffic use outer-taxiways and incoming traffic use apron inner-taxiways.
 
 To ensure a smooth taxi flow and avoid conflicting routes, it is recommended to utilise entries and exits in a unidirectional manner.
 
@@ -465,7 +465,7 @@ However, if the aircraft ahead is already well clear, the next aircraft may be i
 
 Aircraft shall be separated on departure in compliance with standard IFR departure wake turbulence separation requirements. Departures with the same flow point must be separated by at least 7 NM or the appropriate wake turbulence requirement, whichever is greater. A greater separation needs to be coordinated between the radar controller and TWR. 
 
-All fixed-wing IFR departures with the same TMA flow point shall be transferred to APP with 7 NM in trail. For separation of 7 NM, the proceeding traffic needs to be 4-5 NM away from the end of the departure runway. If no radar screen is used, two minute separation can be used in this case as well.
+All fixed-wing IFR departures with the same TMA flow point shall be transferred to Approach with 7 NM in trail. For separation of 7 NM, the proceeding traffic needs to be 4-5 NM away from the end of the departure runway. If no radar screen is used, two minute separation can be used in this case as well.
 
 If the distance ends up being less than 7 NM but more than 3NM (ensured), coordination is required and avoiding action to be taken by the pilot is given when the controller considers that an imminent risk
 a collision will exist if action is not taken immediately.
@@ -541,10 +541,10 @@ VFR traffic shall be cleared using the most appropriate VFR route on track to th
 “CN-BOB, after departure runway 35L, turn right KOSAD, 1 500 ft, VFR”.
 </blockquote>
 
-Only after prior coordination with the APP shall traffic that requests clearance to climb into the TMA be released. If not, they will be instructed to remain outside of controlled airspace after exiting the control zone and to squawk the VFR standard code”.
+Only after prior coordination with Approach shall traffic that requests clearance to climb into the TMA be released. If not, they will be instructed to remain outside of controlled airspace after exiting the control zone and to squawk the VFR standard code”.
 
 <blockquote>
-“CN-BOB, approaching KOSAD, contact Approach 119.900, squawk 7000”.
+“CN-BOB, approaching KOSAD, contact Approach 119.900”.
 </blockquote>
 
 #### Aerodrome Traffic Circuits
@@ -555,7 +555,7 @@ VFR aircraft wishing to do circuits at Casablanca shall receive clearance in the
 “CN-BOB, runway 35L, standard circuit, 1 500 ft, VFR”.
 </blockquote>
 
-VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with Tower and shall either be assigned right-hand patterns for runway 09 or standard circuits (left-hand) for runway 23.
+VFR traffic wishing to remain in the circuit shall be cleared only after prior coordination with Tower and shall either be assigned right-hand patterns for runway 17R or standard circuits (left-hand) for runway 35L.
 
 Circuit direction should be assigned to prevent aircraft from overflying the airport and shall be conducted at an altitude of 1 500 ft. Aircraft may also be cleared to conduct circuits at 2 000 ft if required for high-performance aircraft.
 
@@ -582,7 +582,7 @@ On initial contact, Tower will pass the instructions for joining the circuit, as
 During times of heavy IFR arrival activity, VFR arrivals may be denied entry into the control zone and instructed to hold outside of the CTR awaiting further instructions. Once a slot has been coordinated between Tower and Approach, VFR arrivals may proceed, however, the estimated delay must be given to the pilot if the clearance limit surpasses 5 minutes.
 
 <blockquote>
-“CN-BOB, hold over S, expect onward clearance time 55”.
+“CN-BOB, hold outside of the CTR, expect onward clearance time 55”.
 </blockquote>
 
 ### Low Visibility Procedures (LVP)
@@ -646,9 +646,9 @@ Departing aircraft shall be cleared to their final level before handoff to ACC u
 
 When issuing deviations off track are required, Approach shall ensure departures are above MRVA or are able to maintain visual separation from the terrain.
 
-Speed restrictions below FL100 may be cancelled by APP in order to increase separation.
+Speed restrictions below FL100 may be cancelled by Approach in order to increase separation.
 
-Aircraft must be transferred to the appropriate Area Control Center (ACC) controller at the designated flight levels:
+Aircraft must be transferred to the appropriate ACC controller at the designated flight levels:
 
 <table>
   <thead>
@@ -691,4 +691,4 @@ Aircraft must be transferred to the appropriate Area Control Center (ACC) contro
 
 Effective coordination between Casablanca ACC and Approach is essential for efficient management of arrivals into GMMN airport. Tactical directs are often issued early on to establish a sequence for arrivals, who typically do not fly STARs and are instead sequenced via various arrival points. They are subsequently vectored to align with the final approach. On occasion, arrivals may be assigned the STAR but then vectored prior to reaching the Initial Approach Fix (IAF).
 
-During periods of high traffic, arrivals will be cleared to Flight Level FL160 and transferred to Approach passing FL200 to alleviate the controller's workload. However, in normal operating conditions, the default procedure is for arrivals to be cleared to FL200 and transferred to Approach approaching FL210.
+During periods of high traffic, arrivals will be cleared to FL160 and transferred to Approach passing FL200 to alleviate the controller's workload. However, in normal operating conditions, the default procedure is for arrivals to be cleared to FL200 and transferred to approaching FL210.
